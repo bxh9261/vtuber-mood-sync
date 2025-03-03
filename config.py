@@ -1,0 +1,23 @@
+MOOD_OPTIONS = {
+    "neutral": (0, 0.1),
+    "happy": (0.5, 1.0),
+    "laughing": (0.6, 1.0),
+    "sad": (-1.0, -0.5),
+    "angry": (-1.0, -0.6),
+    "confused": (-0.1, 0.1),
+    "surprised": (0.3, 0.7),
+    "smug": (0.4, 0.8),
+    "embarrassed": (-0.3, 0.2),
+    "tired": (-0.4, 0.1),
+    "serious": (0.2, 0.5),
+    "mischievous": (0.3, 0.6),
+    "deadpan": (-0.2, 0.2),
+    "worried": (-0.4, 0.0),
+    "dramatic crying": (-1.0, -0.8),
+    "sweating": (-0.5, -0.2),
+    "blushy love eyes": (0.7, 1.0),
+    "big brain mode": (0.6, 1.0),
+    "dark aura": (-0.8, -0.5),
+    "glitch": (-0.2, 0.2),
+    "facepalm": (-0.5, -0.2)
+}
