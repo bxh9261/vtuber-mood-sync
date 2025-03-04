@@ -1,0 +1,7 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore large binaries
+*.dll
+*.exe
+*.lib
